@@ -6,7 +6,7 @@ Implementation of Chess Game. This is a Multiplayer game can be played with comp
 
 # Game Features:
 i) Multiplayer Game:
-Can be played as
+<br>Can be played as
 * Human v/s Human
 * Human v/s Computer
 * Computer v/s Computer
