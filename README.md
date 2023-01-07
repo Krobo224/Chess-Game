@@ -11,6 +11,11 @@ i) Multiplayer Game:
 * Human v/s Computer
 * Computer v/s Computer
 
+ii) Play features:
+* Castling
+* Pawn-Promomtion
+* Capturing en Passant
+
 # Future Add-ons
 * Interface to select the game mode
 * Allow dragging peices
