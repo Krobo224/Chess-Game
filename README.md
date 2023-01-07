@@ -6,11 +6,11 @@ Implementation of Chess Game. This is a Multiplayer game can be played with comp
 
 # Game Features:
 i) Multiplayer Game:
-* Can be played as
+Can be played as
 * Human v/s Human
 * Human v/s Computer
 * Computer v/s Computer
-(Note:- For changing the mode change the code in line no. 52 and 53 of ChessMain.py)
+<br>(Note:- For changing the mode change the code in line no. 52 and 53 of ChessMain.py)
 
 ii) Play features:
 * Castling
