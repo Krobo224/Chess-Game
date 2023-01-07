@@ -10,6 +10,7 @@ i) Multiplayer Game:
 * Human v/s Human
 * Human v/s Computer
 * Computer v/s Computer
+(Note:- For changing the mode change the code in line no. 52 and 53 of ChessMain.py)
 
 ii) Play features:
 * Castling
@@ -27,4 +28,4 @@ ii) Play features:
 # Controls
 * Press `z` to undo a move.
 * Press `r` to reset the game.
-
+* Run the game by running ChessMain.py
